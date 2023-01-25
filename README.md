@@ -14,7 +14,7 @@
 
 - Apply Python List slicing techniques to Pandas DataFrames.
 
-- How to aggregate data using the ==.agg()== function.
+- How to aggregate data using the `.agg()==` function.
 
 - How to create scatter plots, bar charts, and line charts with two axes in Matplotlib.
 
